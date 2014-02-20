@@ -19,6 +19,10 @@ Once installed, the job poster is presented with a notice if he/she does not hav
 
 One point is automatically subtracted from the poster once they save their job posting.
 
+= Charge Users =
+
+This plugin provides you with the ability to monetize your job board for free. However, some may find it profitable to charge one set of users compared to the other. Or it may be important to charge more than one point, especially if you are using a cubepoints rate conversion plugin like woocube. The pro versio of this plugin, provides that flexibility, to select who to charge and how much. At the same time, we help you to communicate the charge to the end user, so they know how to proceed.
+
 = Pro Version =
 
 If interested in controlling a lot more of the process then consider our Pro version. It can be installed as a cubepoints module or plugin, up to you. Features include:
@@ -28,10 +32,6 @@ If interested in controlling a lot more of the process then consider our Pro ver
 * Customize the message shown to posters in the "submit job" form
 * Customize the message shown to posters with insufficient funds
 * Customize the message shown to applicants with insufficient funds
-
-= Charge Users =
-
-This plugin provides you with the ability to monetize your job board for free. However, some may find it profitable to charge one set of users compared to the other. Or it may be important to charge more than one point, especially if you are using a cubepoints rate conversion plugin like woocube. The pro versio of this plugin, provides that flexibility, to select who to charge and how much. At the same time, we help you to communicate the charge to the end user, so they know how to proceed.
 
 == Installation ==
 
