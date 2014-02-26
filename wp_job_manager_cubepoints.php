@@ -4,7 +4,7 @@ Plugin Name: WP Job Manager Cubepoints
 Plugin Script: wp_job_manager_cubepoints.php
 Plugin URI: http://www.beprosoftware.com/shop
 Description: Get paid for job listings on WP Job Manager with cubepoints.
-Version: 1.0.1
+Version: 1.0.0
 License: GPL V3
 Author: BePro Software Team
 Author URI: http://www.beprosoftware.com
