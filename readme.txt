@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Get paid for job listings using WP Job Manager with cubepoints.
+Get paid for job listings on WP Job Manager with cubepoints.
 
 == Description ==
 Charge users 1 cubepoint to post a job posting on your blog. Works with and requires both WP Job Manager and cubepoints to be installed.
@@ -21,7 +21,7 @@ One point is automatically subtracted from the poster once they save their job p
 
 = Charge Users =
 
-This plugin provides you with the ability to monetize your job board for free. However, some may find it profitable to charge one set of users compared to the other. Or it may be important to charge more than one point, especially if you are using a cubepoints rate conversion plugin like woocube. The pro versio of this plugin, provides that flexibility, to select who to charge and how much. At the same time, we help you to communicate the charge to the end user, so they know how to proceed.
+This plugin provides you with the ability to monetize your job board for free. However, some may find it profitable to charge one set of users compared to the other. Or it may be important to charge more than one point. The pro version of this plugin, provides that flexibility, to select who to charge and how much. At the same time, we help you to communicate the charge to the end user, so they know how to proceed.
 
 = Pro Version =
 
@@ -32,6 +32,10 @@ If interested in controlling a lot more of the process then consider our Pro ver
 * Customize the message shown to posters in the "submit job" form
 * Customize the message shown to posters with insufficient funds
 * Customize the message shown to applicants with insufficient funds
+
+= Cubepoints for Customers =
+
+For some there is the obvious question of how does the customer get points. You can use a plugin like [WooCube Pro](www.beprosoftware.com/shop/woocube-pro/) to allow the purchasing of points through woocommerce. Once users have purchased points, they can then use them for creating or applying to jobs
 
 == Installation ==
 
@@ -44,6 +48,10 @@ If interested in controlling a lot more of the process then consider our Pro ver
 = Does this work with and require cubepoints? =
 
 Yes, you must have cubepoints installed and it will deduct points
+
+= Is there a pro version? =
+
+Yes, it offers several configuration options and the ability to charge poster, applicant or both.
 
 == Screenshots ==
 
